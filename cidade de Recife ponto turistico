@@ -1,1 +1,14 @@
 # Marcozeropontoturistico
+Página: Pontos Turísticos do Recife Antigo
+
+<img src="imagem1.jpg" alt="Imagem do Forte do Brum">
+<h2>Forte do Brum</h2>
+<p>O Forte do Brum é uma das principais atrações do Recife Antigo. Construído no século XVII, o forte foi erguido para proteger a entrada do porto da cidade contra invasões. Atualmente, o local abriga um centro cultural e oferece uma vista panorâmica incrível da região.</p>
+<img src="imagem2.jpg" alt="Imagem do Paço do Frevo">
+<h2>Paço do Frevo</h2>
+<p>O Paço do Frevo é um espaço dedicado à preservação e divulgação do frevo, ritmo musical e dança típica de Pernambuco. Localizado no Recife Antigo, o Paço oferece exposições interativas, apresentações ao vivo, aulas e oficinas sobre o frevo, proporcionando uma imersão na cultura pernambucana.</p>
+<a href="pontos_turisticos_recife_antigo.html">Voltar à página anterior</a>
+
+Para criar o link que levará à nova página, você pode usar a seguinte tag HTML:
+
+<a href="pontos_turisticos_recife_antigo.html">Pontos Turísticos do Recife Antigo</a>
